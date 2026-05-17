@@ -9,13 +9,13 @@
 
 # Domain-specific redirects for author pen names
 [[redirects]]
-  from = "https://lyonahkane.com/*"
+  from = "http://lyonahkane.com/*"
   to = "/genre/romance"
   status = 200
   force = true
 
 [[redirects]]
-  from = "https://solyxkane.com/*"
+  from = "http://solyxkane.com/*"
   to = "/genre/scifi"
   status = 200
   force = true
